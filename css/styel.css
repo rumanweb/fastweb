@@ -1,0 +1,73 @@
+* {
+    border: 0;
+    padding: 0;
+    outline: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#admin {
+    width: 50%;
+    text-align: center;
+    margin: 155px auto;
+    transition: ease-in-out 0.5s;
+    background-color:black;
+    background: fixed;
+    border-radius: 5%;
+}
+
+#admin:hover {
+    box-shadow: 3px 3px 3px 3px;
+
+} 
+
+::placeholder {
+    color: black;
+    font-size: 13px;
+}
+input {
+    padding: 10px 10px 10px 10px ;
+    border: 2px solid;
+    font-size: 20px;
+    
+
+}
+
+#admin img {
+    width: 100px;
+    padding-bottom: 8px;
+    padding-top: 2px;
+    
+}
+
+#admin  h1 {
+color: black;
+}
+#rs {
+    color: black;
+    margin: 2px;
+} 
+
+body {
+   
+   
+   background-image: url(../img1/sun.jpg);
+   background-position: center;
+   background-size: cover;
+   
+    
+}
+
+input:hover {
+    background-color: yellow;
+    color: black;
+    cursor: pointer;
+}
+
+p {
+    font-size: 18px;
+}
+
+
+
+
